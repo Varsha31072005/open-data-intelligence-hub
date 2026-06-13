@@ -32,5 +32,7 @@ Student contributor names can be added below as the projects are completed.
 
 | Name            | Batch           | Project / Contribution                  |
 | --------------- | --------------- | --------------------------------------- |
-| To be updated   | G40 AI/ML Batch | Open Data Intelligence Hub projects     |
 | Lahari Prasanna | G40 AI/ML Batch | Developer Career Intelligence Warehouse |
+| Abhishek Chauhan | G40 AI/ML Batch | Economic Development Analytics     |
+
+
